@@ -1,0 +1,17 @@
+label {
+    padding-bottom:10px;
+    padding-top: 10px;
+}
+.welcome {
+    text-align: center;
+    padding: 2em;
+}
+.form-check-label{
+    padding: 0px;
+}
+.btn-primary{
+    margin-top: 20px;
+}
+.spacing{
+    margin:50px;
+}
